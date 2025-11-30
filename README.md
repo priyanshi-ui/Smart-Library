@@ -46,11 +46,20 @@ Admin Profile Management:
 
 Dedicated functionality for Administrators to manage and update their profiles.
 
+Static Chatbot Integration:
+
+A Static Chatbot is included to provide quick answers and guidance for common user queries, enhancing ease of use.
+
 # Technology Stack (LAMP Stack Variant)
+
 The system is built using the foundational web development technologies, following a traditional LAMP (Linux, Apache, MySQL, PHP) architectural pattern.
-nBackend/Server-side: PHP-Handles all server-side logic, database interactions, authentication, and dynamic fine/points calculations.
+
+Backend/Server-side: PHP-Handles all server-side logic, database interactions, authentication, and dynamic fine/points calculations.
+
 Database: MySQL-Used for structured storage of member data, book records, transaction logs, and points.
+
 Frontend/Presentation: HTML5 & CSS3-Forms the structure and handles the styling for the user interface.
+
 Interactivity: JavaScript-Provides client-side validation, dynamic content updates, and powers the static chatbot functionalit
 
 # Getting Started
@@ -85,6 +94,4 @@ http://localhost/smart-library-system/
 
 #Future Enhancements
 [Suggest features you plan to add, like advanced search filters, more detailed analytics, etc.
-Static Chatbot Integration:
 
-A Static Chatbot is included to provide quick answers and guidance for common user queries, enhancing ease of use.
