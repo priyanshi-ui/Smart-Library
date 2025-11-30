@@ -1,0 +1,9 @@
+Reading time: 10.433, Book ID: 4
+Reading time: 10.436, Book ID: 4
+Reading time: 6.331, Book ID: 4
+Reading time: 6.334, Book ID: 4
+Reading time: 11.725, Book ID: 4
+Reading time: 11.722, Book ID: 4
+Reading time: 8.262, Book ID: 4
+Reading time: 9.448, Book ID: 4
+Reading time: 6.883, Book ID: 4
