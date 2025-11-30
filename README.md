@@ -1,4 +1,4 @@
-#Smart Library Management System
+# Smart Library Management System
 The Smart Library Management System is a modern application designed to streamline and automate core library operations for both administrators and members. It goes beyond traditional management by incorporating dynamic features like a points-based gamification system, online PDF access, and intelligent fine calculation.
 
 # Key Features
